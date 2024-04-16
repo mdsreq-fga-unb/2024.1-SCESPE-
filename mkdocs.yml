@@ -35,6 +35,8 @@ theme:
 nav:
   - Sobre: index.md
 
+  - Visão de Produto e Projeto: visao_produto_projeto.md
+
 markdown_extensions:
   - tables
   - attr_list
