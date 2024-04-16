@@ -1,1 +1,47 @@
-site_name: My Docs
+site_name: SCESPE
+
+repo_name: "2024.1-SCESPE-"
+repo_url: "https://github.com/mdsreq-fga-unb/2024.1-SCESPE-"
+
+theme:
+  name: material
+  logo: assets/icon_SCESPE.png
+  favicon: assets/icon_SCESPE.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: pt-BR
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+nav:
+  - Sobre: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
