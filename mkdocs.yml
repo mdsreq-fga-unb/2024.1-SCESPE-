@@ -37,6 +37,15 @@ nav:
 
   - Visão de Produto e Projeto: visao_produto_projeto.md
 
+  - Ciclos:
+    - Ciclo 1: ciclos/ciclo1.md
+    - Ciclo 2: ciclos/ciclo2.md
+
+  - Entregas:
+    - Unidade 1:
+      - Atividade 1 - História: entregas/unidade1/atividade1.md
+      - Atividade 2 - Processos ESW: entregas/unidade1/atividade2.md
+
 markdown_extensions:
   - tables
   - attr_list

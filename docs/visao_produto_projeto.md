@@ -1,12 +1,22 @@
 # VISÃO DE PRODUTO E PROJETO
 
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor |
+| ---- | ------ | --------- | ----- |
+| 02/04/2024 | `0.1` | Criação do documento | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+| 04/04/2024 | `0.2` | Evolução do documento | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+| 08/04/2024 | `1.0` | Visão Geral do Produto | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+| 16/04/2024 | `1.1` | Criação do documento no gitpages | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+| 17/04/2024 | `2.0` | Revisão do documento e inclusão do vídeo da apresentação | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+
 ## 1. VISÃO GERAL DO PRODUTO
 ### 1.1 Problema
-O problema se constitui, na organização de um depósito central de nove unidades da rede de Ensino Biângulo, cuja gestão implica o controle rigoroso da entrada e saída de suprimentos e produtos. É crucial a emissão de etiquetas com códigos de barras individuais para cada item recebido, viabilizando sua identificação, bem como o acompanhamento minucioso das quantidades armazenadas. Além disso, é fundamental a geração de dados estatísticos para uma gestão mais eficaz. Destaca-se que os produtos podem ser distribuídos para todas as unidades conforme suas respectivas necessidades e os pedidos realizados. 
+O problema se constitui, na organização de um depósito central de nove unidades da rede de Ensino Biângulo, cuja gestão implica o controle rigoroso da entrada e saída de suprimentos e produtos. É crucial para a solução, a emissão de etiquetas com códigos de barras individuais para cada item recebido, viabilizando sua identificação, bem como o acompanhamento minucioso das quantidades armazenadas. Além disso, é fundamental a geração de dados estatísticos para uma gestão mais eficaz. Destaca-se que os produtos podem ser distribuídos para todas as unidades conforme suas respectivas necessidades e os pedidos realizados. 
 
 <center>
 
 ![Diagrama](assets/diagrama_espinha.jpeg)
+
 Figura 1 - Diagrama de Ishikawa (fonte: autores, 2024)
 
 </center>
@@ -39,9 +49,9 @@ Tem-se por objetivo desenvolver um software eficiente e intuitivo para a gestão
 
 | Papel | Atribuições | Responsável | Participantes |
 | ----- | ----------- | ----------- | ------------- |
-| Desenvolvedor |  Codificar o produto, codificar testes unitários, realizar refatoração | Henrique Quenino | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
-| Dono do produto | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Carlos Alves | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
-| Analista de Qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código| Vinicius Santos | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
+| Desenvolvedor |  Codificar o produto, codificar testes unitários, realizar refatoração | Henrique Quenino | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
+| Dono do produto | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Carlos Alves | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
+| Analista de Qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código| Vinicius Santos | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
 | Cliente | Validar o trabalho entregue, eleger a prioridade dos requisitos | Fabrício Felix | Fabrício Felix |
 | Monitor | Orientar as equipes e auxiliar no processo de desenvolvimento | Ana Fernandes | Ana Fernandes |
 
@@ -103,6 +113,7 @@ Com base em Gupta (2019), foram respondidas uma série de perguntas, relacionada
 <center>
 
 ![tabela_requisitos_gupta](assets/tabela_requisitos_gupta.png)
+
 Figura 2 - Modelo Gupta para requisitos (fonte: Gupta, 2019)
 
 </center>
@@ -121,6 +132,7 @@ Conclusão: Em questão de requisitos, temos o indicativo para a cascata, iterat
 <center>
 
 ![tabela_desenvolvimento_gupta](assets/tabela_desenvolvimento_gupta.png)
+
 Figura 3 - Modelo Gupta para equipe de desenvolvimento (fonte: Gupta, 2019)
 
 </center>
@@ -139,6 +151,7 @@ Conclusão: Em questão de equipe de desenvolvimento, temos o indicativo para o 
 <center>
 
 ![tabela_usuarios_gupta](assets/tabela_usuarios_gupta.png)
+
 Figura 4 - Modelo Gupta para usuários (fonte: Gupta, 2019)
 
 </center>
@@ -157,6 +170,7 @@ Conclusão: Em questão de usuário, temos o indicativo para o RAD.
 <center>
 
 ![tabela_riscos_gupta](assets/tabela_riscos_gupta.png)
+
 Figura 5 - Modelo Gupta para tipo de projeto e risco associado (fonte: Gupta, 2019)
 
 </center>
@@ -177,6 +191,7 @@ Conclusão: Em termos de Tipo de Projeto e Risco Associado, temos o indicativo p
 <center>
 
 ![procedimento_RAD](assets/procedimento_RAD.png)
+
 Figura 6 - Modelo Gupta para tipo de projeto e risco associado (fonte: Marsicano, 2019)
 
 </center>
@@ -201,11 +216,13 @@ Para que seja possível a execução do processo escolhido, foi escolhida as seg
 <center>
 
 ![facetas](assets/facetas.png)
+
 Figura 7 - Faceta da engenharia de requisitos (fonte: Marsicano, 2023)
 
 </center>
 
 Baseado nas Facetas do Processo de ER (IREB, 2022), foi definido que é um processo de ER Contratual, pois: 
+
 - Alvo: Cliente específico;
 - Propósito: Prescritivo; 
 - Tempo: Linear.
@@ -215,6 +232,7 @@ Baseado nas Facetas do Processo de ER (IREB, 2022), foi definido que é um proce
 <center>
 
 ![atividades_ER](assets/atividades_ER.png)
+
 Figura 8 - Atividades da Engenharia de Requisitos (fonte: Marsicano, 2023)
 
 </center>
@@ -236,6 +254,7 @@ Por fim, daremos grande ênfase ao levantamento de requisitos. Entender claramen
 <center>
 
 ![modelo_RAD](assets/modelo_RAD.png)
+
 Figura 9 - Modelo RAD (fonte: Univas, 2013)
 
 </center>
@@ -299,12 +318,3 @@ O grupo demonstra boa comunicação para organizar e dividir as atividades propo
 5. UNIVAS. Metodologias clássicas. 2013. Disponível em: [Metodologias clássicas](https://metodologiasclassicas.blogspot.com/p/incremental.html)
 
 6. Rapid application development model (RAD) – Software Engineering. GeeksforGeeks, 2024. Disponível em: [Rapid application development model (RAD) – Software Engineering](https://www.geeksforgeeks.org/software-engineering-rapid-application-development-model-rad/)
-
-
-## 6. Histórico de Revisão
-| Data | Versão | Descrição | Autor |
-| ---- | ------ | --------- | ----- |
-| 02/04/2024 | `0.1` | Criação do documento | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
-| 04/04/2024 | `0.2` | Evolução do documento | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
-| 08/04/2024 | `1.0` | Visão Geral do Produto | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
-| 16/04/2024 | `1.1` | Criação do documento no gitpages | Henrique Quenino, Vinicius Santos, André Silva, Bruno de Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
