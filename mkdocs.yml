@@ -45,6 +45,7 @@ nav:
     - Unidade 1:
       - Atividade 1 - História: entregas/unidade1/atividade1.md
       - Atividade 2 - Processos ESW: entregas/unidade1/atividade2.md
+      - Missão 1 - Apresentação: entregas/unidade1/missao1.md
 
 markdown_extensions:
   - tables
