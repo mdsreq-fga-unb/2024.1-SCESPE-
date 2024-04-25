@@ -33,7 +33,7 @@ Figura 1 - Diagrama de Ishikawa (fonte: autores, 2024)
 
 ### 1.3 Objetivos do Produto
 
-Tem-se por objetivo desenvolver um software eficiente e intuitivo para a gestão de estoque em um depósito central de uma rede de escolas com nove unidades, permitindo o controle detalhado dos suprimentos, movimentação de itens entre unidades, geração de relatórios e integração com sistemas de compra e fornecedores.
+O objetivo do produto é resolver a gestão do depósito central da rede de Ensino Biângulo. Isso inclui gerenciar autorizações do manejo de suprimentos, emitir etiquetas com códigos de barras para identificação dos itens, acompanhar as quantidades em estoque em tempo real e gerar dados estatísticos para uma gestão mais eficaz. Além disso, visa controlar por parte da central, a distribuição dos produtos para as unidades filhas conforme suas necessidades e pedidos.
 
 ### 1.4 Tecnologias a Serem Utilizadas
 - Python 
