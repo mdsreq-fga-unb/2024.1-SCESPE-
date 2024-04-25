@@ -49,10 +49,10 @@ O objetivo do produto é resolver a gestão do depósito central da rede de Ensi
 
 | Papel | Atribuições | Responsável | Participantes |
 | ----- | ----------- | ----------- | ------------- |
-| Desenvolvedor |  Codificar o produto, codificar testes unitários, realizar refatoração | Henrique Quenino | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
-| Dono do produto | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Carlos Alves | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
-| Analista de Qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código| Vinicius Santos | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
-| Cliente | Validar o trabalho entregue, eleger a prioridade dos requisitos | Fabrício Felix | Fabrício Felix |
+| Desenvolvedor |  Codificar o produto, codificar testes unitários, realizar refatoração. Também é responsável pela **Elicitação e Descoberta**, além da **Representação** dos requisitos. | Henrique Quenino | Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
+| Dono do produto | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas. Responsável pela **Análise e Consenso**, além da **Organização e Atualização** dos requisitos. | Carlos Alves | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira |
+| Analista de Qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código. Responsável pela **Verificação e Validação** dos requisitos. | Vinicius Santos | Henrique Quenino, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Alves |
+| Cliente | Validar o trabalho entregue, eleger a prioridade dos requisitos. Responsável pela **Declaração** dos requisitos. | Fabrício Felix | Fabrício Felix |
 | Monitor | Orientar as equipes e auxiliar no processo de desenvolvimento | Ana Fernandes | Ana Fernandes |
 
 ### 2.2 Planejamento das Fases e/ou Iterações do Projeto
