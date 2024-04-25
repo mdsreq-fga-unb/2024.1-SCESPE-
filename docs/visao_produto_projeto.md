@@ -11,11 +11,11 @@
 
 ## 1. VISÃO GERAL DO PRODUTO
 ### 1.1 Problema
-O problema se constitui, na organização de um depósito central de nove unidades da rede de Ensino Biângulo, cuja gestão implica o controle rigoroso da entrada e saída de suprimentos e produtos. É crucial para a solução, a emissão de etiquetas com códigos de barras individuais para cada item recebido, viabilizando sua identificação, bem como o acompanhamento minucioso das quantidades armazenadas. Além disso, é fundamental a geração de dados estatísticos para uma gestão mais eficaz. Destaca-se que os produtos podem ser distribuídos para todas as unidades conforme suas respectivas necessidades e os pedidos realizados. 
+O problema se constitui, na organização de um depósito central de nove unidades da rede de Ensino Biângulo, cuja gestão requer o controle rigoroso da entrada e saída de suprimentos e produtos, da emissão de etiquetas com códigos de barras individuais para cada item recebido, bem como o acompanhamento minucioso das quantidades armazenadas. Além disso, é fundamental a geração de dados estatísticos. Destaca-se também a problemática de comunicação e distribuição de produtos entre todas as unidades conforme suas respectivas necessidades e os pedidos realizados.  
 
 <center>
 
-![Diagrama](assets/diagrama_espinha.jpeg)
+![Diagrama](assets/diagrama_espinha.png)
 
 Figura 1 - Diagrama de Ishikawa (fonte: autores, 2024)
 
