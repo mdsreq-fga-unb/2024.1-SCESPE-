@@ -11,11 +11,11 @@
 
 ## 1. VISÃO GERAL DO PRODUTO
 ### 1.1 Problema
-O problema se constitui, na organização de um depósito central de nove unidades da rede de Ensino Biângulo, cuja gestão implica o controle rigoroso da entrada e saída de suprimentos e produtos. É crucial para a solução, a emissão de etiquetas com códigos de barras individuais para cada item recebido, viabilizando sua identificação, bem como o acompanhamento minucioso das quantidades armazenadas. Além disso, é fundamental a geração de dados estatísticos para uma gestão mais eficaz. Destaca-se que os produtos podem ser distribuídos para todas as unidades conforme suas respectivas necessidades e os pedidos realizados. 
+O problema se constitui, na organização de um depósito central de nove unidades da rede de Ensino Biângulo, cuja gestão requer o controle rigoroso da entrada e saída de suprimentos e produtos, da emissão de etiquetas com códigos de barras individuais para cada item recebido, bem como o acompanhamento minucioso das quantidades armazenadas. Além disso, é fundamental a geração de dados estatísticos. Destaca-se também a problemática de comunicação e distribuição de produtos entre todas as unidades conforme suas respectivas necessidades e os pedidos realizados.  
 
 <center>
 
-![Diagrama](assets/diagrama_espinha.jpeg)
+![Diagrama](assets/diagrama_espinha.png)
 
 Figura 1 - Diagrama de Ishikawa (fonte: autores, 2024)
 
@@ -26,10 +26,10 @@ Figura 1 - Diagrama de Ishikawa (fonte: autores, 2024)
 | Para | Rede Colégio Biângulo |
 | ---- | --------------------- |
 | Quem | Necessita-se gerir eficientemente o depósito das várias unidades do colégio |
-| O SCESPE | É um sistema eficiente de controle de estoque |
-| Que | Auxílio na gestão de depósito, de forma eficiente e organizada, integrando o estoque das unidades para uma análise geral e específica |
+| O SCESPE | É um sistema eficiente de controle de estoque Escolar |
+| Que | Auxílio na gestão de estoque escolar, integrando o estoque das unidades para uma análise geral e específica. |
 | Ao contrário | Planilhas digitais, manuscrita ou afins |
-| Nosso produto | Ofertará estoque controlado e eficiente |
+| Nosso produto | Ofertará controle centralizado e sincronizado de informação, possibilitará o monitoramento através de etiquetas geradas automaticamente, e haverá controle sobre restrições de acesso e manipulação do estoque. |
 
 ### 1.3 Objetivos do Produto
 
