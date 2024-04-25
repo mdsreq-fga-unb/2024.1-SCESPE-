@@ -26,10 +26,10 @@ Figura 1 - Diagrama de Ishikawa (fonte: autores, 2024)
 | Para | Rede Colégio Biângulo |
 | ---- | --------------------- |
 | Quem | Necessita-se gerir eficientemente o depósito das várias unidades do colégio |
-| O SCESPE | É um sistema eficiente de controle de estoque |
-| Que | Auxílio na gestão de depósito, de forma eficiente e organizada, integrando o estoque das unidades para uma análise geral e específica |
+| O SCESPE | É um sistema eficiente de controle de estoque Escolar |
+| Que | Auxílio na gestão de estoque escolar, integrando o estoque das unidades para uma análise geral e específica. |
 | Ao contrário | Planilhas digitais, manuscrita ou afins |
-| Nosso produto | Ofertará estoque controlado e eficiente |
+| Nosso produto | Ofertará controle centralizado e sincronizado de informação, possibilitará o monitoramento através de etiquetas geradas automaticamente, e haverá controle sobre restrições de acesso e manipulação do estoque. |
 
 ### 1.3 Objetivos do Produto
 
