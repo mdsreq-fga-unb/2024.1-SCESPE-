@@ -8,6 +8,7 @@
 | 08/04/2024 | `1.0` | Visão Geral do Produto | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
 | 16/04/2024 | `1.1` | Criação do documento no gitpages | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
 | 17/04/2024 | `2.0` | Revisão do documento e inclusão do vídeo da apresentação | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+| 25/04/2024 | `2.1` | Conclusão das issues abertas após entrega da missão 1 | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
 
 ## 1. VISÃO GERAL DO PRODUTO
 ### 1.1 Problema
