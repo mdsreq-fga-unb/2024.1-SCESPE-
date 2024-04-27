@@ -9,6 +9,7 @@
 | 16/04/2024 | `1.1` | Criação do documento no gitpages | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
 | 17/04/2024 | `2.0` | Revisão do documento e inclusão do vídeo da apresentação | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
 | 25/04/2024 | `2.1` | Conclusão das issues abertas após entrega da missão 1 | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
+| 27/04/2024 | `2.2` | Finalização da issue #6 | Henrique Quenino, Vinicius Santos, André Silva, Bruno Menezes, Eduardo Sandes, Larissa Vieira, Carlos Eduardo Alves |
 
 ## 1. VISÃO GERAL DO PRODUTO
 ### 1.1 Problema
@@ -204,6 +205,7 @@ Considerando o foco no usuário, a necessidade de uma interação eficiente com 
 ### 3.2 Ferramentas
 
 Para que seja possível a execução do processo escolhido, foi escolhida as seguintes ferramentas para desenvolvimento, controle e organização da equipe:
+
 - Comunicação: WhatsApp e Discord;
 - Interface de Desenvolvimento: Visual Studio Code;
 - Gerenciamento de tarefas: Sharepoint e Miro;
@@ -240,6 +242,30 @@ Figura 8 - Atividades da Engenharia de Requisitos (fonte: Marsicano, 2023)
 
 Com o que foi definido nos tópicos anteriores, podemos incluir as atividades de ER (MARSICANO, 2023) dentro dos procedimentos do processo de desenvolvimento de software RAD.
 
+##### Elicitação e Descoberta:
+
+Durante a fase inicial do projeto será realizadas reuniões com o cliente para descobrir quais os seus problemas, necessidades, requisitos e possibilidades ou restrições para o produto a ser desenvolvido. Para que toda a equipe possa compreender melhor o que irá ser desenvolvido.
+
+##### Análise e Consenso:
+
+Nesta fase será analisado os requisitos obtidos através de reuniões e serão feitas propostas de melhorias, caso necessário, para que seja possível chegar a um entendimento comum sobre o conjunto de requisitos.
+
+##### Declaração:
+
+Aqui será realizada a documentação detalhada dos requisitos funcionáis (RFs) e dos requisitos não funcionáis (RNFs) de forma clara e completa.
+
+##### Representação:
+
+Durante a execução do projeto, os requisitos serão representados por meio da prototipação, permitindo que o cliente possa ver como os requisitos serão implementados, permitindo um melhor feedback.
+
+##### Verificação e Validação:
+
+Nesta fase será realizada a validação dos requisitos, para garantir que todos tenham sido declarados do modo não ambíguo e que todos os requisitos tenham sido declarados. Também será feita ao longo do projeto a verificação dos requisitos, para que estejam sendo implementados da maneira correta.
+
+##### Organização e Atualização:
+
+Durante o andamento do projeto os requisitos serão organizados e atualizados, através de ferramentas como o Miro, para gerenciamento eficar e que seja possível categorizar o que é mais importante no momento do desenvolvimento.
+
 #### 3.3.3 Atividades RAD
 
 O RAD é um método para desenvolvimento de softwares que permite uma prototipagem mais rápida e entrega iterativa do produto. Trata-se de um modelo alternativo ao tradicional modelo cascata que, em geral, foca em um processo de desenvolvimento sequencial e pouco flexível. Ele enfatiza um ciclo de desenvolvimento curto com o objetivo de ter um desenvolvimento melhor e mais rápido (Redação Cronapp, 2017). 
@@ -263,26 +289,27 @@ Figura 9 - Modelo RAD (fonte: Univas, 2013)
 ##### 3.3.3.1 Requisitos e planejamento
 ###### 3.3.3.1.1 Planejamento de requisitos
 
-Envolve o uso de técnicas utilizadas para o levantamento dos requisitos, como brainstorming, análise de tarefas, análise de formulários, cenários de usuário, FAST (Facilitated Application Development Technique), etc. (geeksforgeeks, 2024)
+Envolve o uso de técnicas utilizadas para o levantamento dos requisitos, como brainstorming, análise de tarefas, análise de formulários, cenários de usuário, FAST (Facilitated Application Development Technique), etc. (geeksforgeeks, 2024), para que seja possível a execução da atividade de Elicitação e descoberta, e análise e consenso.
 
 | Identificador | Atividade | Método | Ferramenta | Entrega |
 | ------------- | --------- | ------ | ---------- | ------- |
-| PR-1 | Brainstorming | Reunião | Miro e Discord | Entendimento inicial dos requisitos a serem desenvolvidos em um ciclo |
-| PR-2 | Análise das funcionalidades | Reunião | Miro e Discord | Análise do custo de cada requisito |
+| PR-1 | Elicitação e descoberta | Reunião | Miro e Discord | Entendimento inicial dos requisitos a serem desenvolvidos em um ciclo |
+| PR-2 | Análise e consenso | Reunião | Miro e Discord | Análise dos requisitos para um entendimento comum |
 
 ###### 3.3.3.1.2 Descrição do usuário
 
-Esta fase consiste em receber feedback do usuário e construir o protótipo usando ferramentas de desenvolvedor. Por outras palavras, inclui o reexame e a validação dos dados recolhidos na primeira fase. Os atributos do conjunto de dados também são identificados e elucidados nesta fase. (geeksforgeeks, 2024)
+Esta fase consiste em receber feedback do usuário e construir o protótipo usando ferramentas de desenvolvedor. Por outras palavras, inclui o reexame e a validação dos dados recolhidos na primeira fase. Os atributos do conjunto de dados também são identificados e elucidados nesta fase (geeksforgeeks, 2024). Fazendo assim as atividades de Declaração, Representação, verificação validação dos requisitos.
 
 | Identificador | Atividade | Método | Ferramenta | Entrega |
 | ------------- | --------- | ------ | ---------- | ------- |
-| DU-1 | Elicitação de requisitos | Reunião com cliente | Discord | Definição de requisitos a serem entregues |
-| DU-2 | Prototipação | Pareamento | Figma e Discord | Protótipos de alta e baixa fidelidade |
-| DU-3 | Verificação e Validação | Reunião com clientes | Figma e Discord | Validação ou reprovação dos protótipos |
+| DU-1 | Declaração | Reunião e Reunião com cliente | Discord | Definição de requisitos a serem entregues |
+| DU-2 | Validação | Reunião com cliente | Figma e Discord | Validação dos requisitos levantados |
+| DU-3 | Representação | Pareamento | Figma e Discord | Protótipos de alta e baixa fidelidade |
+| DU-4 | verificação e validação | Reunião com cliente | Figma e Discord | Validação dos requisitos levantados |
 
 ###### 3.3.3.1.3 Construção
 
-Nesta fase ocorre o refinamento do protótipo e a entrega. Inclui o uso real de ferramentas automatizadas para transformar processos e modelos de dados a fim de desenvolver o produto final. Todas as modificações e melhorias necessárias devem ser feitas nesta fase. (geeksforgeeks, 2024).
+Nesta fase ocorre o refinamento do protótipo e a entrega. Inclui o uso real de ferramentas automatizadas para transformar processos e modelos de dados a fim de desenvolver o produto final. Todas as modificações e melhorias necessárias devem ser feitas nesta fase (geeksforgeeks, 2024).
 
 | Identificador | Atividade | Método | Ferramenta | Entrega |
 | ------------- | --------- | ------ | ---------- | ------- |
@@ -291,11 +318,11 @@ Nesta fase ocorre o refinamento do protótipo e a entrega. Inclui o uso real de 
 
 ###### 3.3.3.1.4 Cutover (teste e validação)
 
-Todas as interfaces entre os módulos independentes desenvolvidos por equipes separadas devem ser testadas adequadamente. O uso de ferramentas e subpartes altamente automatizadas facilita os testes. Isto é seguido por testes de aceitação pelo usuário. (geeksforgeeks, 2024).
+Todas as interfaces entre os módulos independentes desenvolvidos por equipes separadas devem ser testadas adequadamente. O uso de ferramentas e subpartes altamente automatizadas facilita os testes. Isto é seguido por testes de aceitação pelo usuário (geeksforgeeks, 2024). Concluindo assim a atividade de verificação e validação.
 
 | Identificador | Atividade | Método | Ferramenta | Entrega |
 | ------------- | --------- | ------ | ---------- | ------- |
-| CO-1 | Testes das funcionalidades | Testes unitários | Visual Studio Code e unittest | Garantia efetiva da qualidade das funcionalidades a serem entregues |
+| CO-1 | Verificação das funcionalidades | Testes unitários | Visual Studio Code e unittest | Garantia efetiva da qualidade das funcionalidades a serem entregues |
 | CO-2 | Validação das funcionalidades | Apresentação remota e testes de aceitação | Discord | Validação, reprovação ou reformulação de requisitos entregues | 
 
 ## 4. Lições Aprendidas
